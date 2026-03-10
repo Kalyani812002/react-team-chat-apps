@@ -41,10 +41,12 @@ https://team-chat-apps.vercel.app/
 
 To run this project locally:
 
-
 https://github.com/Kalyani812002/team-chat-apps.git
+
 cd team-chat-app
+
 npm install
+
 npm start
 
 
